@@ -17,6 +17,7 @@
 Соберите информацию о заквасках с сайта pro-syr.ru (https://pro-syr.ru/zakvaski-dlya-syra/mezofilnye/)
 
 Необходимо собрать следующие данные: Название продукта, Цена, Есть ли продукт в наличии.
+
 Результат записан в файл data.csv (..\Task2_3SHEA\Task2_3SHEA\spiders\data.csv)
 
 
